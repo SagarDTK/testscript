@@ -9,3 +9,5 @@ function showCollegeName()
 
 module.exports={showCollegeName}
 
+console.log("MBA : ")
+
